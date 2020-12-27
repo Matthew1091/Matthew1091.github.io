@@ -295,6 +295,12 @@ ul.button li a:hover{
 	position: relative;
 	margin-bottom: 1em;
 }
+.photography-images-R{
+	float: right;
+	width: 32.5%;
+	position: relative;
+	margin-bottom: 1em;
+}
 .middle{
 	margin:0 1em;
 }
