@@ -12,7 +12,31 @@ html,body {
 }
 /*-- header --*/
 .header-bg{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/Shifter00010.png) no-repeat 0px 0px;
+	background-size: cover;
+	min-height: 700px;
+	position:relative;
+}
+.header-bg1{
+	background: url(../images/ShifterBaseAiPawn.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	min-height: 700px;
+	position:relative;
+}
+.header-bg2{
+	background: url(../images/lights01.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	min-height: 700px;
+	position:relative;
+}
+.header-bg3{
+	background: url(../images/BossFightAttackBP.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	min-height: 700px;
+	position:relative;
+}
+.header-bg4{
+	background: url(../images/unity05.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 700px;
 	position:relative;
