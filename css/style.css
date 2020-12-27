@@ -287,16 +287,16 @@ ul.button li a:hover{
 }
 /*-- photography --*/
 .photography {
-	margin-top: 2em;
+	margin-top: 5em;
 }
 .photography-images{
 	float: left;
 	width: 32.5%;
 	position: relative;
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 }
 .middle{
-	margin:0 2em;
+	margin:0 0em;
 }
 .photography-images img{
 	width:100%;
