@@ -296,7 +296,7 @@ ul.button li a:hover{
 	margin-bottom: 1em;
 }
 .middle{
-	margin:0 0em;
+	margin:0 1em;
 }
 .photography-images img{
 	width:100%;
@@ -642,7 +642,7 @@ form input[type="submit"]:hover{
 		height: 47px;
 	}
 	.photography {
-		margin-top: 2em;
+		margin-top: 1em;
 	}
 	.middle {
 		margin: 0;
