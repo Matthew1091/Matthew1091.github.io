@@ -12,7 +12,7 @@ html,body {
 }
 /*-- header --*/
 .header-bg{
-	background: url(../images/lights01.jpg) no-repeat 0px 0px;
+	background: url(../images/LightsPathCode.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 700px;
 	position:relative;
