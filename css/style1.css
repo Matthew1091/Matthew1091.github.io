@@ -12,7 +12,7 @@ html,body {
 }
 /*-- header --*/
 .header-bg{
-	background: url(../images/Shifter00010.png) no-repeat 0px 0px;
+	background: url(../images/ShifterBaseAiPawn.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	min-height: 700px;
 	position:relative;
